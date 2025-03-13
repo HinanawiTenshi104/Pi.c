@@ -1,4 +1,4 @@
-It's a little c program that renders a 3d "π".
+It's a little c program that renders a 3d "π". Happy π Day 2025!
 
 Inspired by https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html
 
